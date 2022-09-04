@@ -1,0 +1,16 @@
+{
+    "name": "iniciando_nodejs",
+    "version": "1.0.0",
+    "description": "Primeiro projeto com NodeJs",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js",
+        "api": "nodemon api/index.js"
+    },
+    "author": "Fabio da Silva Rezende",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}

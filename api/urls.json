@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "name": "Rockeseat",
-      "url": "http://rockeseat.com.br/"
-    },
-    {
       "name": "Google",
       "url": "http://google.com/"
     }
